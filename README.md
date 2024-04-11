@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Eric Nahas
 
-- 🔭 I’m currently working at: iPorSolutions
+- 🔭 I’m currently working at: iPortSolutions
 - 🌱 I’m currently learning: C# .NET Web Forms
 - 📫 How to reach me: nahaseric@gmail.com
 - 😄 Pronouns: He/Him
